@@ -2,12 +2,16 @@
 ## Includes
 - python and R
 - Data Wrangling
-- Exploratory Data Analysis
+- Feature Engineering
+- Exploratory Data Analysis (EDA)
 - Data Visulazation
-- Machine Learning
 - Time Series Analysis
-- Natural Language Processing
+- Natural Language Processing (NLP)
 - Web Scraping
+- Machine Learning (ML)
+- Deep Learning (DL)
+- Reinforcement Learning (RL)
+- Computer Vision (CV)
 
 ## **00-07**
 
