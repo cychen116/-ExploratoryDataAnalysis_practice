@@ -11,7 +11,13 @@
 
 ## **00-07**
 
-Assignments organized from course EMSE 6574 Programming for Analytics in Fall 2020
+Assignments organized from course EMSE 6574 Programming for Analytics in Fall 2020.
+
+
+## **08-25**
+
+Assignments organized from course EMSE 6575 Applied Machine Learning for Analytics in Spring 2021.
+
 
 ## **Next...**
 
